@@ -10,9 +10,9 @@ It ships as a **FastAPI backend + Next.js dashboard**, with a legacy **Flask + C
 
 ## Source Code
 
-The complete source code for this project is not publicly available as it contains company-specific and proprietary implementation details.
+The complete source code for this project is not publicly available as it contains my company-specific and proprietary implementation details which i can't share here.
 
-For interview or verification purposes, a sanitized version of the project will be shared through the following Google Drive link:
+For interview or verification purposes, a sanitized version of the project I will made  it available through the following Google Drive link:
 
 **Google Drive:** https://drive.google.com/your-link-here
 
