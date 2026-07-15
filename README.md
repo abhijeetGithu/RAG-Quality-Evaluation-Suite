@@ -1,4 +1,4 @@
-# RAG-Quality-Evaluation-Suite
+# [SUVA Relevancy Automation](https://github.com/abhijeetGithu/Salesforce-Support-Automation-Relevancy-Platform/tree/main)
 
 **An end-to-end evaluation platform that automatically tests how good an AI support chatbot's answers really are.**
 
