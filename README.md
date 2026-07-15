@@ -8,6 +8,16 @@ It ships as a **FastAPI backend + Next.js dashboard**, with a legacy **Flask + C
 
 ---
 
+## Source Code
+
+The complete source code for this project is not publicly available as it contains company-specific and proprietary implementation details.
+
+For interview or verification purposes, a sanitized version of the project will be shared through the following Google Drive link:
+
+**Google Drive:** https://drive.google.com/your-link-here
+
+> *The Drive link will be made available after the interview process or upon request for code verification.*
+
 ## 🖼️ What it looks like
 
 **Live pipeline run — real-time logs, step tracker, and per-query scoring as the browser and LLM judge work through a batch:**
