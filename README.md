@@ -12,11 +12,11 @@ It ships as a **FastAPI backend + Next.js dashboard**, with a legacy **Flask + C
 
 **Live pipeline run — real-time logs, step tracker, and per-query scoring as the browser and LLM judge work through a batch:**
 
-![Live analysis run with step tracker and results panel](screenshots/image%20%285%29.png)
+![Live analysis run with step tracker and results panel](/project-image1.png)
 
 **Batch results table — every query scored 0–10 with verdicts (Accurate / Partially Accurate / Inaccurate), source-match status, and citation grounding:**
 
-![Batch results table with scores and verdicts](screenshots/image%20%284%29.png)
+![Batch results table with scores and verdicts](project-image2.png)
 
 ---
 
